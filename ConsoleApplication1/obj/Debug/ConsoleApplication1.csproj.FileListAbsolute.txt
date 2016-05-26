@@ -1,0 +1,12 @@
+C:\Users\edguev\Desktop\Clase 02 CSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\edguev\Desktop\Clase 02 CSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\edguev\Desktop\Clase 02 CSharp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\edguev\Desktop\Clase 02 CSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\edguev\Desktop\Clase 02 CSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\edguev\Desktop\Clase 02 CSharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Programacion\Desktop\TAREA 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Programacion\Desktop\TAREA 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Programacion\Desktop\TAREA 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Programacion\Desktop\TAREA 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Programacion\Desktop\TAREA 2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Programacion\Desktop\TAREA 2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
